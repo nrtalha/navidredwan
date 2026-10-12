@@ -1,14 +1,14 @@
 # Hi there, I'm Navid Redwan Talha 👋
 
-I'm a Full-Stack Developer, E-commerce Architect, and Technical Project Manager based in Dhaka, Bangladesh (and planning a move to Dublin in 2027). I specialize in engineering custom e-commerce infrastructure, building web applications, and designing complex system integrations. 
+I'm a Full-Stack Developer, E-commerce Architect, and a remote Technical Project Manager based in Dhaka, Bangladesh. I specialize in engineering custom e-commerce infrastructure, building web and mobile applications, and designing complex system integrations. 
 
-Currently, I work as a Project Manager at Bevy Commerce and serve as the Co-founder & CTO of the quick commerce platform Minutei.
+Currently, I work as a Project Manager at Bevy Commerce and serve as the technical advisor for a number of upcoming startups.
 
 🚀 What I'm Up To
 - 🔭 **Currently working on:** Enterprise-level Shopify Plus migrations and bidirectional POS integrations (like NCR Counterpoint).
 - 🌱 **Currently exploring:** Integrating local LLM frameworks (Ollama, Groq) and AI tools into workflow automations and PM applications. 
 - 💻 **Recent projects:** Engineered *PlanPilot*, a Next.js project management app with Supabase Auth and AI integration, alongside managing massive data migrations for US Based Brands.
-- 🎓 **Academic focus:** Balancing my tech career with a Master's degree, with coursework in biostatistics and environmental health.
+- 🎓 **Academic focus:** Balancing my tech career with a Master's degree, game development and some leisure coursework in biostatistics and environmental health.
 
 ### ⚡ Beyond the Code
 - I am deeply inspired by the philosophy of *Ikigai*, striving to build a career at the intersection of passion, skill, and impact.
