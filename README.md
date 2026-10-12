@@ -10,13 +10,6 @@ Currently, I work as a Project Manager at Bevy Commerce and serve as the Co-foun
 - 💻 **Recent projects:** Engineered *PlanPilot*, a Next.js project management app with Supabase Auth and AI integration, alongside managing massive data migrations for US Based Brands.
 - 🎓 **Academic focus:** Balancing my tech career with a Master's degree, with coursework in biostatistics and environmental health.
 
-### 🛠️ Tech Stack & Toolbox that i work with on a daily basis - 
-- **E-commerce:** Shopify Plus, Liquid, Metaobjects, WooCommerce, WPBakery, Woodmart
-- **Frameworks & Languages:** Next.js, Tailwind CSS, Python, Supabase, Vercel
-- **Integrations & APIs:** ShipStation, Recharge, Klaviyo, Smile.io, Tatum, Korapay
-- **Performance & Security:** Cloudflare WAF, LiteSpeed Cache, Redis Object Cache, NitroPack
-
-
 ### ⚡ Beyond the Code
 - I am deeply inspired by the philosophy of *Ikigai*, striving to build a career at the intersection of passion, skill, and impact.
 - Whether it is structuring a Shopify-to-Counterpoint webhook payload or mapping out campus ambassador campaigns, I love bridging the gap between deep technical architecture and business growth.
